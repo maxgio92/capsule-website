@@ -17,9 +17,9 @@ version = "main"
 url_latest_version = "https://example.com"
 
 [[versions]]
-  version = "v1.11.0"
-  url = "https://kyverno.io"
+  version = "v0.7.0"
+  url = "https://projectcapsule.dev"
 
 [[versions]]
-  version = "v1.10.0"
-  url = "https://release-1-10-0.kyverno.io"
+  version = "v0.6.0"
+  url = "https://release-0-6-0.projectcapsule.dev"
